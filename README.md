@@ -1,6 +1,6 @@
 # Bayesian_Statistics_Fundamentals
 This is a part of my class work which provides fundamentals about the Bayesian Statistical analysis.
-All the coding has been done in R and using R markdown reports have been dgenerated in HTML as well as PDF.
+All the coding has been done in R and using R markdown reports have been generated in HTML as well as PDF.
 
 This work focusses mainly on:
 
